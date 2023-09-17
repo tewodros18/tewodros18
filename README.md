@@ -1,3 +1,4 @@
+# section1
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -18,18 +19,56 @@
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<pre><a href="https/javascript:alert('Hello World!');">Execute JavaScript</a></pre>
+<pre><a href="window.location.href='https://www.w3docs.com';">Execute JavaScript</a></pre>
+
+
 
 <details open> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  <summary align="center"><h2>📺 Latest YouTube Videos</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
+<table align="center"> 
+  <tr>
+    <th>
+      <img width="300" src="https://github.com/tewodros18/todo/blob/master/J5A.gif">
+    </th>
+    <th>
+    </th>
+    <th>
+      <h2>🤖 Machine Learning Projects</h2>
+      <a href="#-my-top-open-source-projects"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    </th>
+  </tr>
+</table>
+<table align="center"> 
+  <tr>
+    <th>
+      <img width="300" src="https://github.com/tewodros18/todo/blob/master/J5A.gif">
+    </th>
+    <th>
+    </th>
+    <th>
+      <h2>🤖 Machine Learning Projects</h2>
+    </th>
+  </tr>
+</table>
+<table align="center"> 
+  <tr>
+    <th>
+      <img width="300" src="https://github.com/tewodros18/todo/blob/master/J5A.gif">
+    </th>
+    <th>
+    </th>
+    <th>
+      <h2>🤖 Machine Learning Projects</h2>
+    </th>
+  </tr>
+</table>
 
-<pre>
-  <a href="https://www.youtube.com/watch?v=maoXtlb8t44"><img width="300" src="https://github.com/tewodros18/todo/blob/master/J5A.gif" alt="How To Self-Host GitHub Readme Streak Stats on Vercel" title="How To Self-Host GitHub Readme Streak Stats on Vercel"></a>
-</pre>
+
+
   
 </details>
