@@ -1,46 +1,51 @@
-<detils open> 
-  <summary align="center"><h2>Explore My work</h2></summary>
+<h2 align="center">Explore My work</h2>
 
  
 <table align="center"> 
   <tr>
-    <th>
-      <img width="300" src="https://github.com/tewodros18/todo/blob/master/J5A.gif">
+    <th align="left">
+      <h2>🤖 Machine Learning </h2>
+      <dl>
+  <dt>All things ML, including</dt>
+  <dd>* Paper implementations,ML-based apps and POCs </dd>
+  <p align="center"><a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      </p>
+      <a href="#-my-top-open-source-projects"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20ML%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</dl>
     </th>
-    <th>
+    <th align="left">
+      <h2>🎡 Frontend development</h2>
+      <dl>
+  <dt>All things ML, including</dt>
+  <dd>* Paper implementations,ML-based apps and POCs </dd>
+  <p align="center"><a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      </p>
+      <a href="#-my-top-open-source-projects"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20ML%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</dl>
     </th>
-    <th>
-      <h2>🤖 Machine Learning Projects</h2>
-      <a href="#-my-top-open-source-projects"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+    <th align="left">
+      <h2>🛠 Backend development</h2>
+      <dl>
+  <dt>All things ML, including</dt>
+  <dd>* Paper implementations,ML-based apps and POCs </dd>
+  <p align="center"><a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      </p>
+      <a href="#-my-top-open-source-projects"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20ML%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</dl>
     </th>
   </tr>
 </table>
-<table align="center"> 
-  <tr>
-    <th>
-      <img width="300" src="https://github.com/tewodros18/todo/blob/master/J5A.gif">
-    </th>
-    <th>
-    </th>
-    <th>
-      <h2>🤖 Machine Learning Projects</h2>
-    </th>
-  </tr>
-</table>
-<table align="center"> 
-  <tr>
-    <th>
-      <img width="300" src="https://github.com/tewodros18/todo/blob/master/J5A.gif">
-    </th>
-    <th>
-    </th>
-    <th>
-      <h2>🤖 Machine Learning Projects</h2>
-    </th>
-  </tr>
-</table>
+
 
 
 
   
-</details>
