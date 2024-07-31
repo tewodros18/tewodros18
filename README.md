@@ -63,36 +63,7 @@
 
 <br></br>
 
-<table align="center">
- <tr>
-  <th></th>
-  <th align="center">
-      <h2>🦺 AI Safety</h2>
-      <dl>
-  <dt>All things AI Safety, including</dt>
-  <dd>* Hands-on Technical AI Safety </dd>
 
-  <th></th>
-  
- </tr>
-  <tr>
-    <th>Interpretability</th>
-    <td>
-     Neural network interpretability
-    </td>
-    <th><a href="https://github.com/tewodros18/profile_readme/blob/main/frontendrepos.md"><img alt="Repository" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Find%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></td></th>
-  </tr>
- <tr>
-    <th>MLAB</th>
-    <td>
-     A multilayer perceptron (MLP) character-level language model
-     <ul>
-       <li>model training, learning rate tuning, hyperparameters,</li>
-     </ul>
-    </td>
-    <th><a href="https://github.com/tewodros18/profile_readme/blob/main/frontendrepos.md"><img alt="Repository" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Find%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></td></th>
-  </tr>  
- </table>     
 <!---
     </th>
     <th align="left">
@@ -126,6 +97,37 @@
 <h2 align="center">Work & Skillset</h2>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/any_text-you_like-blue"></a>
 
+
+<table align="center">
+ <tr>
+  <th></th>
+  <th align="center">
+      <h2>🦺 AI Safety</h2>
+      <dl>
+  <dt>All things AI Safety, including</dt>
+  <dd>* Hands-on Technical AI Safety </dd>
+
+  <th></th>
+  
+ </tr>
+  <tr>
+    <th>Interpretability</th>
+    <td>
+     Neural network interpretability
+    </td>
+    <th><a href="https://github.com/tewodros18/profile_readme/blob/main/frontendrepos.md"><img alt="Repository" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Find%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></td></th>
+  </tr>
+ <tr>
+    <th>MLAB</th>
+    <td>
+     A multilayer perceptron (MLP) character-level language model
+     <ul>
+       <li>model training, learning rate tuning, hyperparameters,</li>
+     </ul>
+    </td>
+    <th><a href="https://github.com/tewodros18/profile_readme/blob/main/frontendrepos.md"><img alt="Repository" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20To%20Find%20Repo-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a></td></th>
+  </tr>  
+ </table>     
 -->
 
 
